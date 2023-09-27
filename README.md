@@ -38,35 +38,14 @@ If you need to contribute to this project follow the steps below:<br>
 In the project directory, you can run:
 
 ### `bundle install` 
-to install the necessary dependencies
+To install the necessary dependencies
 Runs the app in the development mode.\
 Run Rails s to start the rails server
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 ## Licence
  
  MIT License
@@ -91,12 +70,10 @@ Things you may want to cover:
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
  
- [Go Back to the top](#Real-Estate)
+ [Go Back to the top](# SUPERHEROES)
  
  ## Authors Info
 
  Rhoda Gachimu
-
-
 
  gachimurhoda@gmail.com
